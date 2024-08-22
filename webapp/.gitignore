@@ -1,0 +1,6 @@
+/node_modules
+/public
+.env
+test.html
+test.js
+microsoft-identity-association.json
